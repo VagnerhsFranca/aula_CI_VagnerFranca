@@ -5,7 +5,7 @@ package aula_CI_VagnerFranca;
 
 public class Library {
     public boolean someLibraryMethod() {
-        return true;
+        return false;
     }
 }
 //teste de workflow
